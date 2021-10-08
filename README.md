@@ -24,7 +24,7 @@
 
 ### }
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-7/Second-version-Calculator/index.html
 
