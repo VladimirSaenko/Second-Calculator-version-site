@@ -1,8 +1,4 @@
 # Second-Calculator-version-site
- 
-### Second version of Calculator
-
-### Изменения:
 
 ### 1. Новый матовый дизайн
 
