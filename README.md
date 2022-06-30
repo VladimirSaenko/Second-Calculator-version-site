@@ -16,7 +16,7 @@
 
 ### https://github.com/VladimirSaenko/First-Calculator
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/FirstClock/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/First%20Calculator/index.html
 
 ### }
 
