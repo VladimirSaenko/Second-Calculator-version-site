@@ -1,11 +1,5 @@
 # Second-Calculator-version-site
 
-### 1. Новый матовый дизайн
-
-### 2. Новый бэкграунд
-
-### 3. Использована js-библиотека vanilla-tilt
-
 ![2232](https://user-images.githubusercontent.com/56477695/118031128-d9fdde80-b36e-11eb-8670-fbbaf8924d49.png)
 
 ## First version {
