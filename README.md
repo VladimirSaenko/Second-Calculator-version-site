@@ -1,6 +1,6 @@
 # Second-Calculator-version-site
 
-![2232](https://user-images.githubusercontent.com/56477695/118031128-d9fdde80-b36e-11eb-8670-fbbaf8924d49.png)
+<img width="1384" height="863" alt="image" src="https://github.com/user-attachments/assets/8b4fbf1e-e850-4261-8181-a319854ede9d"/>
 
 ## First version {
 
